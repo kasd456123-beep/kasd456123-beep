@@ -72,27 +72,9 @@ Right now I am exploring Python projects, media tooling, desktop utilities, and 
 
 <br />
 
-## Featured Work
-
-<div align="center">
-
-<a href="https://github.com/kasd456123-beep/Macast">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kasd456123-beep&repo=Macast&theme=tokyonight&hide_border=true&border_radius=8" alt="Macast repository card" />
-</a>
-
-</div>
-
-<br />
-
 ## GitHub Pulse
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kasd456123-beep&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=8" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasd456123-beep&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top languages" />
-
-<br />
-<br />
 
 <img src="https://streak-stats.demolab.com?user=kasd456123-beep&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak stats" />
 
